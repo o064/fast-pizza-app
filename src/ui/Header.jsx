@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import SearchOrder from '../features/order/SearchOrder';
-import Username from '../features/user/Username';
+import UserName from '../features/user/UserName';
 
 function Header() {
   return (
@@ -10,7 +10,7 @@ function Header() {
       </Link>
 
       <SearchOrder />
-      <Username />
+      <UserName />
     </header>
   );
 }
