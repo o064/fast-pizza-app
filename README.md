@@ -8,7 +8,8 @@ Welcome to the **Fast Pizza App**\! This is a modern, responsive web application
 
 You can view a live deployment of a similar **Fast React Pizza Co.** application to see the features in action:
 
-  * **View Demo:** [[Fast React Pizza Co. - Live](https://fast-react-pizza.netlify.app/)](https://vercel.com/o064s-projects/fast-pizza-app-sdxy)
+  * **View Demo:** 
+  https://fast-pizza-app-sdxy.vercel.app/
 --- 
 
 ## ✨ Features
